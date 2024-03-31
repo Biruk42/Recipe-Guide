@@ -6,7 +6,15 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(#1c1917 50%, #4b70e2 50%);
+  background: linear-gradient(125deg, #005c97, #1f1c18);
+}
+.title {
+  margin-top: 45px;
+  text-align: center;
+  color: white;
+  font-size: 55px;
+  font-family: "Dancing Script", cursive;
+  font-weight: 800;
 }
 .container {
   background-color: #1e293b;
